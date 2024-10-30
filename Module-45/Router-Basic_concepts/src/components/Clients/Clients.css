@@ -1,0 +1,8 @@
+
+
+.clients{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:0.5rem;
+    margin-top:0.8rem;
+}
