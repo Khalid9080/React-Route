@@ -1,3 +1,10 @@
 nav a{
     margin-right: 20px;
 }
+
+nav a.active{
+ 
+    background-color:  chartreuse;
+    border-radius: 1rem;
+    padding: 10px;
+}
